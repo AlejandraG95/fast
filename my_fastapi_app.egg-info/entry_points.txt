@@ -1,0 +1,2 @@
+[console_scripts]
+my_fastapi_app_run = my_fastapi_app.app:run_server
